@@ -35,10 +35,10 @@ The final application architecture reflects significant evolution from earlier s
 
 ## Links
 - **Colab Link:** NOT_SHARED_PUBLICLY
-_Note: This link is for grading purposes only and should not be shared or used outside this context._
+_Note: This link is for grading purposes only and should not be shared or used outside this context. The code works local using free ngrok. Correct link to use looks like https://xxx-xx-xxx-xxx-xx.ngrok-free.app and you will have to click blue button to visit free site._
 - **GitHub Repository:** https://github.com/EmilyBartman/NLP_Nova/tree/main
 _Note: API keys and Ngrok tokens are omitted in the publicly available code._
-- **Video Presentation:** [ SAMPLE VIDEO PLACEHOLDER https://youtu.be/zRplfZGIOS4 ]
+- **Video Presentation:** [https://youtu.be/-nNPl6T5Uvs](https://youtu.be/-nNPl6T5Uvs)
 
 ## Challenges and Resolutions
 
